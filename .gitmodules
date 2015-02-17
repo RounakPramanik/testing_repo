@@ -1,0 +1,9 @@
+[submodule "demo"]
+	path = demo
+	url = https://github.com/RounakPramanik/demo
+[submodule "heat"]
+	path = heat
+	url = https://github.com/RounakPramanik/heat
+[submodule "python-vnfsvcclient"]
+	path = python-vnfsvcclient
+	url = https://github.com/RounakPramanik/python-vnfsvcclient
